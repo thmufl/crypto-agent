@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "~/tensorflow_macos_venv"
+    "python.pythonPath": "~/tensorflow_macos_venv",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
